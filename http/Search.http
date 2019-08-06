@@ -1,0 +1,7 @@
+POST https://localhost:5001/api/search/searchFile2
+Content-Type: application/json
+
+{
+    "Path": ".",
+    "Pattern": "*.json"
+}
